@@ -1,0 +1,12 @@
+E:\C# package\QQ_client\QQ_client\bin\Debug\QQ_client.exe.config
+E:\C# package\QQ_client\QQ_client\bin\Debug\QQ_client.exe
+E:\C# package\QQ_client\QQ_client\bin\Debug\QQ_client.pdb
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.csprojAssemblyReference.cache
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.QQ_client.resources
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.Properties.Resources.resources
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.regist.resources
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.csproj.GenerateResource.cache
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.csproj.CoreCompileInputs.cache
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.exe
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.pdb
+E:\C# package\QQ_client\QQ_client\obj\Debug\QQ_client.Main.resources
