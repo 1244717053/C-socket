@@ -1,0 +1,12 @@
+E:\C# package\QQ_server\QQ_server\bin\Debug\QQ_server.exe.config
+E:\C# package\QQ_server\QQ_server\bin\Debug\QQ_server.exe
+E:\C# package\QQ_server\QQ_server\bin\Debug\QQ_server.pdb
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.csprojAssemblyReference.cache
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.QQServer.resources
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.Properties.Resources.resources
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.csproj.GenerateResource.cache
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.csproj.CoreCompileInputs.cache
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.exe
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.pdb
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.user.resources
+E:\C# package\QQ_server\QQ_server\obj\Debug\QQ_server.test_sql.resources
